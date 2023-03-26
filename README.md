@@ -18,3 +18,7 @@ La regione Marche chiede di sviluppare un sistema per la gestione delle struttur
 
 NOTE:<br>
 - Nella creazione della maschera ho utilizzato la sintassi &"" alla fine di ogni CONTA.SE () per risolve il problema in modo semplice delle celle con lo zero, in assenza dei valori: Indirizzo, indirizzo di posta elettronica, Indirizzo internet e Localita. <br>
+- Creato grafico della Pivot di Strutture ricettive con il totale per ogni cateroria filtrando per la Città;<br>
+- Creato grafico nel modello dati con la Mappa 3D, dove fa ridaltare;<br>
+
+@PierluigiVenneri
